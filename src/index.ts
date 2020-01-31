@@ -1,1 +1,1 @@
-import './example/basic-types'
+import './example/function'
