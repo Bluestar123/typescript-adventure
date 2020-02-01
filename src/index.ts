@@ -1,1 +1,1 @@
-import './example/function'
+import './example/enum'
